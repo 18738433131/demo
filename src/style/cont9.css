@@ -1,0 +1,54 @@
+.xuan-a{
+  font-size: 12px;
+  box-sizing: border-box;
+  padding: 40px 20px;
+}
+.xuan-b{
+  margin: 0;
+  padding: 0;
+}
+.xuan-a span span{
+  padding: 0 10px;
+  color:  #999999;
+}
+.xuan-b img{
+  width: 1200px;
+}
+.xuan-c{
+  display: flex;
+  background-color: #eeeef1;
+}
+.xuan-right{
+width: 200px;
+margin-top: -5px;
+}
+.xuan-d{
+  background-color: #dddddd;
+  box-sizing: border-box;
+  padding: 8px 0;
+  text-align: center;
+  font-size: 12px;
+}
+.xuan-d span{
+  color: red;
+}
+.xuan-right ul li{
+  display: flex;
+  margin-top: 10px;
+  border-radius: 6px;
+  border: 1px solid #737373;
+  box-sizing: border-box;
+  padding: 16px 10px;
+  font-size: 0.75rem;
+  color: #999999;
+}
+.xuan-right a{
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  background-color: #FF3C1B;
+  color: white;
+  margin-top: 20px;
+  border-radius: 6px;
+  margin-left: 30px;
+}

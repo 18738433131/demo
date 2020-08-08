@@ -1,0 +1,148 @@
+.lie-top{
+  margin-top: 30px;
+  background-color: white;
+  font-size: 12px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.lie-top p span{
+    color: #ff3c1b;
+}
+.lie-left{
+  width: 870px;
+}
+.lie-left-t{
+    background-color: white;
+    border: 1px solid #D6D6D6;
+}
+.lie-left-t ul{
+  box-sizing: content-box;
+  margin: 0 26px;
+}
+.lie-left-t ul li:first-child{
+  margin: 0;
+}
+.lie-left-t ul li{
+  margin-top: 10px;
+  box-sizing: border-box;
+  padding-bottom: 40px;
+  border-bottom: 1px dashed #999999;
+}
+.lie-left-t ul li:last-child{
+  border: 0;
+}
+.lie-left-t ul li span:first-child{
+  margin-left: 26px;
+}
+.lie-left-t ul li span{
+  margin: 0 14px;
+  padding: 4px;
+}
+.lie-left-t ul li span:nth-child(2){
+  background-color: #FF3C1B;
+  color: white;
+}
+.lie-con{
+  display: flex;
+  justify-content: space-between;
+}
+.lie-right{
+  background-color: white;
+}
+.lie-right p{
+  font-size: 14px;
+  background-color: #e6e6e6;
+  box-sizing: border-box;
+  padding: 10px 16px;
+}
+.lie-right ul{
+  box-sizing: border-box;
+  padding: 22px 20px 22px 16px;
+}
+.lie-right ul li{
+  display: flex;
+}
+.lie-right ul li img{
+  width: 100px;
+  height: 130px;
+}
+.con1 div:last-child{
+  padding-left: 8px;
+}
+.con1 div p:first-child{
+  color: #000000;
+}
+.con1 div p{
+  font-size: 12px;
+  background-color: white;
+  color: #A0A0A0;
+}
+.con1 p span{
+  color: red;
+}
+.lie-left-b{
+  margin-top: 16px;
+  background-color: white;
+}
+.tab-header{
+  display: flex;
+  justify-content: space-between;
+  background-color: #f8f8f9;
+}
+.tab-header ul{
+  display: flex;
+}
+.tab-header ul li{
+  box-sizing: border-box;
+  padding: 0 20px;
+  height: 32px;
+  line-height: 32px;
+}
+.tab-cont1{
+  background-color: white;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.con3{
+  display: flex;
+  box-sizing: border-box;
+  padding: 20px 0;
+  border-bottom: 1px dashed #999999;
+}
+.con3 div:last-child{
+  margin-left: 20px;
+}
+.con3 p:nth-child(5),.con3 p:nth-child(2),.con3 p:nth-child(3){
+  color: #A0A0A0;
+  font-size: 12px;
+}
+.con3 p{
+  padding-bottom: 20px;
+}
+.con3 p span{
+  color: red;
+}
+.ye{
+
+}
+.ye ul{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+.ye ul p{
+  line-height: 30px;
+}
+.ye ul li{
+  height: 30px;
+  width: 30px;
+  border: 1px solid #989898;
+  border-radius: 6px;
+  text-align: center;
+  color: #989898;
+  margin: 0 10px;
+}
+.ye ul li:nth-child(2){
+  background-color: #FF3C1B;
+  color: white;
+}

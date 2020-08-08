@@ -1,0 +1,183 @@
+.page {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.nav {
+  display: flex;
+  margin-top: 46px;
+  justify-content: space-between;
+  background-color: white;
+}
+
+.nav ul {
+  display: flex;
+}
+
+.nav ul li {
+  padding: 20px 30px;
+}
+
+.image {
+  list-style: none;
+}
+
+.lunbo {
+  width: 1200px;
+  height: 420px;
+  position: relative;
+  margin: 0px auto;
+}
+
+.image li {
+  width: 100%;
+  height: 420px;
+  float: left;
+  position: absolute;
+  display: none;
+}
+
+.rm{
+  width: 1200px;
+  margin: 0 auto;
+  background-color: white;
+  margin-top: 30px;
+  box-sizing: border-box;
+  padding: 24px 0px;
+}
+.h{
+  text-align: center;
+}
+.rm ul{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 24px;
+}
+.rm ul li p{
+  font-size: 12px;
+}
+.rm ul li p:last-child{
+  color: #D6D6D6;
+}
+.rm ul li p:last-child span{
+  color: #000000;
+}
+.ho{
+  margin-top: 30px;
+  background-color: white;
+  box-sizing: border-box;
+ padding: 24px 24px;
+}
+.ho ul{
+  display: flex;
+  margin-top: 24px;
+ justify-content: space-around;
+}
+.ho ul li:nth-child(1){
+  padding-right: 8px;
+}
+.ho ul li:nth-child(2){
+  display: flex;
+  flex-wrap: wrap;
+}
+.ho ul li:nth-child(2) p{
+  padding: 0 10px;
+}
+.tab{
+  margin-top: 30px;
+}
+.tab-header ul{
+  display: flex;
+}
+.tab-header ul li{
+  flex: 1;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 20px 20px 0 0;
+  background-color: white;
+}
+.tab-header ul li:first-child{
+  background-color: #e68936;
+  color: white;
+}
+.tab-header ul li:nth-child(2){
+  background-color: #ff467a;
+  color: white;
+}
+.tab-header ul li:nth-child(3){
+  background-color: #84b91e;
+  color: white;
+}
+.tab-header ul li:nth-child(4){
+  background-color: #36aee6;
+  color: white;
+}
+.tab-cont{
+  box-sizing: border-box;
+  padding: 9px 24px;
+background-color: white;
+}
+
+.con{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.con1{
+  display: flex;
+  padding: 15px 0;
+}
+.con div:last-child p{
+  font-size: 12px;
+}
+.con div:last-child p:first-child{
+  font-size: 14px;
+}
+.con  div:last-child p:nth-child(2){
+  color: #737373;
+}
+.con  div:last-child p:last-child{
+  font-size: 14px;
+  padding-top: 40px;
+}
+.con div:last-child p:last-child span{
+  font-size: 20px;
+}
+.bon{
+  margin-top: 30px;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 24px;
+}
+.bon ul{
+  display: flex;
+  margin-top: 20px;
+}
+.bon ul li:last-child{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.con2{
+  display: flex;
+
+   font-size: 12px;
+}
+.con2 p{
+  color: #999999;
+}
+.con2 p:first-child{
+color: black;
+padding-bottom: 80px;
+}
+.con2:last-child,.con2:nth-child(5),.con2:nth-child(4){
+  margin-top: 60px;
+}
+.qin{
+  margin-top: 30px;
+}
+.qin ul{
+  display: flex;
+  justify-content: space-between;
+}
